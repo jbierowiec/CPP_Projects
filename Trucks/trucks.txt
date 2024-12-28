@@ -1,0 +1,47 @@
+2024
+Ford
+F-150
+26
+8200
+---
+2024
+Chevrolet
+Silverado 1500
+29
+8000
+---
+2025
+Ford
+Ranger
+26
+6000
+---
+2025
+GMC
+Sierra 1500
+29
+8500
+---
+2025
+Honda
+Ridgeline
+24
+7400
+---
+2025
+Hyundai
+Santa Cruz
+30
+6000
+---
+2025
+Jeep
+Gladiator
+15
+7000
+---
+2025
+Rivian
+R1T
+80
+8000
